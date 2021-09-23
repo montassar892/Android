@@ -1,3 +1,0 @@
-# Android
-First Application
-Test
